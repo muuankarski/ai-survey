@@ -4,6 +4,10 @@ author: RAS & AI
 lang: english
 ...
 
+This is the environment for editing the questionnaire of 2015 survey.
+
+Make edits in the source. The outputs will be generated automatically from the source. See the syntax documentation at the bottom of the page if you find it cumbersome.
+
 Source
 ==========================
 
