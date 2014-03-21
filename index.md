@@ -20,3 +20,5 @@ Browse the automatically generated outputs
 - [odt](form.odt)
 - [docx](form.docx)
 
+
+<p>Email <a href="mailto:markus.kainu@helsinki.fi?Subject=russianmodernisation.fi" target="_top"> Markus</a> if you want the source to be converted or send SMS at 0503516164</p>
