@@ -5,7 +5,7 @@
 cd ~/workspace/russia/ai-survey
 curl -o form.md http://pad.okfn.org/p/AiSurvey/export/txt
 
-pandoc -s -S --toc -H markdown_survey.css form.md -o form.html
+pandoc -s -S --toc -H rmarkdown_survey.css form.md -o form.html
 pandoc --toc form.md -o form.docx
 pandoc --toc form.md -o form.odt
 #pandoc --toc --number-section --latex-engine=xelatex -V lang=english -V papersize:a4paper -V documentclass=scrartcl form.md -o form.pdf
