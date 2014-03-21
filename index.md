@@ -17,7 +17,6 @@ Outputs
 Browse the automatically generated outputs
 
 - [html](form.html)
-- [pdf](form.pdf)
 - [odt](form.odt)
 - [docx](form.docx)
 
