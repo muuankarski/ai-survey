@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle:  Survey-form outputs\nauthor: RAS & AI\nlang: english\n...\n\nSource\n==========================\n\nEdit the source\n\n[pad.okfn.org/p/AiSurvey](http://pad.okfn.org/p/AiSurvey)\n\nOutputs\n==========================\n\nBrowse the automatically generated outputs\n\n- [html](form.html)\n- [pdf](form.pdf)\n- [odt](form.odt)\n- [docx](form.docx)\n\n",
+    "created" : 1395383431674.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3330324435",
+    "id" : "BED112A5",
+    "lastKnownWriteTime" : 1395383618,
+    "path" : "~/workspace/lits/clone/attributions/.git/index.md",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled4"
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}

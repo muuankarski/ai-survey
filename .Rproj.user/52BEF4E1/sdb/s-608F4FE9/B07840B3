@@ -1,0 +1,17 @@
+{
+    "contents" : "#!/bin/bash\n\nBACKUP_PATH=`/home/backup/` # replace path with your backup directory\nWEBSITE_URL=`http://www.sevenacross.net` # replace url with the address of the website you want to backup\n\n# Create and move to backup directory\ncd ~/workspace/russiaai-survey\ncurl -o form.md http://pad.okfn.org/p/AiSurvey/export/txt\n\npandoc -s -S --toc -H /home/aurelius/workspace/web/css/rmarkdown.css form.md -o form.html\npandoc --toc form.md -o form.docx\npandoc --toc form.md -o form.odt\npandoc --toc form.md -o form.odt\npandoc -s -S -H /home/aurelius/workspace/web/css/rmarkdown.css index.md -o index.html\n\ngit commit -am \"questionnaire updated\"\ngit push\n",
+    "created" : 1395383633084.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1965667045",
+    "id" : "B07840B3",
+    "lastKnownWriteTime" : 1395383667,
+    "path" : "~/workspace/lits/clone/attributions/.git/compile.sh",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled3"
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}
