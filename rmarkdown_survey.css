@@ -199,6 +199,7 @@ h2 {
 	letter-spacing: 0.05em;
 	word-spacing: .1em;
 	font-style: italic;
+	border-top: 0.5px dashed #657b83;
 /*	text-transform:capitalize;*/
     color: black;
 
