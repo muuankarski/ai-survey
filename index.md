@@ -1,34 +1,26 @@
 ---
-title:  Survey-form outputs
+title:  Editing questionnaire for 2015 survey 
 author: RAS & AI
 lang: english
 ...
 
-This is the environment for editing the questionnaire of 2015 survey.
+Here you can edit the questionnaire of 2015 survey.
 
-Make edits in the source. The outputs will be generated automatically from the source. See the syntax documentation at the bottom of the page if you find it cumbersome.
-
-Source
+How to
 ==========================
 
-Edit the source
+1. Make your edits in the source: [pad.okfn.org/p/AiSurvey](http://pad.okfn.org/p/AiSurvey) (**See writing instructions from below**)
+2. Outputs are generated on request. 
+	- Email <a href="mailto:markus.kainu@helsinki.fi?Subject=compile ai-survey" target="_top"> Markus</a> if you want the source to be converted
+3. Browse the outputs:
+    - [html](form.html)
+	- [odt](form.odt)
+	- [docx](form.docx)
 
-[pad.okfn.org/p/AiSurvey](http://pad.okfn.org/p/AiSurvey)
-
-Outputs
+Writing instructions
 ==========================
 
-Browse the automatically generated outputs
-
-- [html](form.html)
-- [odt](form.odt)
-- [docx](form.docx)
-
-
-<p>Email <a href="mailto:markus.kainu@helsinki.fi?Subject=compile ai-survey" target="_top"> Markus</a> if you want the source to be converted or send SMS at 0503516164</p>
-
-Syntax
-==========================
+For proper formatting you have to use [markdown-syntax](https://help.github.com/articles/markdown-basics). Below you can find the very basics.
 
 The code below:
 
@@ -37,9 +29,12 @@ The code below:
 This is first level heading
 ===========================
 
+# This is ALSO first level heading
 
 This is second level heading
 ---------------------------
+
+## This is ALSO second level heading
 
 
 ### This is third level heading
@@ -67,6 +62,8 @@ This is **bold** and this is *italic*.
 `this is code or comment`
 
 >this is quote
+
+[This is link to Yle](http://yle.fi)
 
 ```
 
@@ -77,9 +74,12 @@ looks like this
 This is first level heading
 ===========================
 
+# This is ALSO first level heading
 
 This is second level heading
 ---------------------------
+
+## This is ALSO second level heading
 
 
 ### This is third level heading
@@ -107,3 +107,5 @@ This is **bold** and this is *italic*.
 `this is code or comment`
 
 >this is quote
+
+[This is link to Yle](http://yle.fi)
