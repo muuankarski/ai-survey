@@ -47,6 +47,10 @@
     font-size: 1.1em;
     line-height: 1.2em;
     border-bottom: 0px;
+    font-style: normal;
+	border-top: 0px;
+/*	text-transform:capitalize;*/
+    color: #657b83;
     }
 
 .date /* Pandoc date header (h3.date) */
