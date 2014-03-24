@@ -59,52 +59,25 @@
 
 
 body {
-    margin-left: 240px;
-    max-width:750px; 
+    margin-left: 420px;
+    max-width:600px; 
     border: 0px;
     font-family: Lato, Helvetica, sans-serif;
 }
 
 
-#toc {
-    font-size:0.9em;
-    height: 100%;
-    /*position: fixed; */
-    position:absolute;
-    width: 220px;
-    left: 5px;
-    padding-top: 20px;
-    color: #003333;
-    border-right: 1px dashed #C1C1C1;
-}
-
-#toc_header {
-    font-size: 1em;
-    font-weight: bold;    
-    border-bottom: 1px dashed #C1C1C1;
-    color: black;
-}
-
-
-
-#TOC li {
-    padding: 2px 4px;
-    margin-left: 2px;
-}
-
 
 #TOC a {
-    color: #003333;
-    display: block;
+    color: #B2C2C2;
 }
 
 
 #TOC {
-    font-size:0.9em;
+    /*font-size:2em;
     height: 100%;
-    /*position: fixed; */
-     position:absolute;
-    width: 220px;
+    position: fixed; */
+    position:absolute;
+    width: 400px;
     left: 5px;
     padding-top: 20px;
     color: #003333;
@@ -113,7 +86,7 @@ body {
 
 #TOC_HEADER {
     font-size: 1em;
-    font-weight: bold;    
+    font-weight: 600;    
     border-bottom: 1px dashed #C1C1C1;
     color: black;
 }
@@ -121,14 +94,9 @@ body {
 
 
 #TOC li {
+	font-size:0.9em;
     padding: 2px 4px;
     margin-left: 2px;
-}
-
-
-#TOC a {
-    color: #003333;
-    display: block;
 }
 
 
@@ -161,13 +129,12 @@ code.r, code.cpp {
 
 
 ul {
-	font-size: 100% !important;
 	font-family: Lato, Helvetica, sans-serif;
 }
 li {
 	font-family: Lato, Helvetica, sans-serif;
- 	font-size: 1em;
- 	line-height: 1.1em;
+ 	font-size: 11px;
+ 	line-height: 8px;
 }
 
 
@@ -175,7 +142,7 @@ p {
 	font-family: Lato, Helvetica, sans-serif;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	font-size: 1em;
+	font-size: .9em;
 	line-height: 1.2em;
 }
 ol {
@@ -212,27 +179,28 @@ a:active {
 
 h1 {
 	font-family:  Lato, Arial;
-	font-size: 1.3em;
+	font-size: 2em;
 	padding: 2px;
 	line-height: 1.3em;
     font-weight: 400;
 	/*letter-spacing: 0.06em;
 	word-spacing: .1em;*/
     border-bottom: 0.5px solid #657b83;
-	text-transform:uppercase;
+	text-transform:none;
     color: #657b83;
 }
 h2 {
 	font-family:  Lato, Arial;
-	font-size: 1.1em;
+	font-size: 1em;
 	padding: 2px;
+	padding-top: 10px;
 	line-height: 1.1em;
-    font-weight: 300;
+    font-weight: 700;
 	letter-spacing: 0.05em;
 	word-spacing: .1em;
-	border-bottom: 0.5px dashed #657b83;
+	font-style: italic;
 /*	text-transform:capitalize;*/
-    color: #657b83;
+    color: black;
 
 }
 h3 {
@@ -286,9 +254,10 @@ p.caption, table caption, caption{
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-    line-height: 1.4em;
-	font-size: 0.9em;
+    line-height: 1em;
+	font-size: 0.7em;
 	/*font-family: monospace;*/
+	color: #657b83;
 
 }
 .views-table, table {
