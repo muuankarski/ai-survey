@@ -1331,7 +1331,8 @@ In your opinion why is your salary so low ? Choose no more than two options from
 
 
  Let talk for a moment  about the country as a whole. How often do you think the following conditions must influence the salary level in our country?
-  ----------------------------------------------------
+----------------------------------------------------
+
 
 | Must always | influence | As a rule must influence | Sometimes must, sometimes must not | As a rule must not influence | Must never influence | HARD TO SAY |
 | --- | --- | --- | --- | ---- | --- |
