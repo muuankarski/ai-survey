@@ -1,8 +1,6 @@
-% social distinctions in contemporary russia
+% Social Distinctions in Contemporary Russia
 % Russian academy of sciences institute of sociology & Aleksanteri institute
 % 2015, Moscow
-
-********************************************************
 
 ********************************************************
 
@@ -37,7 +35,6 @@ All information, accumulated by the current study is anonymous. We undertake to 
 
 Your participation in the project is voluntary. However each refusal to participate has a negative effect on the degree of precision. Now our society needs precise information as never before.  Therefore we want you or other member of your family to spend some time and give answers to our questions.
 
-********************************************************
 
 ********************************************************
 
