@@ -1,6 +1,6 @@
 % Social Distinctions in Contemporary Russia
 % Russian academy of sciences institute of sociology & Aleksanteri institute
-% 2015, Moscow
+% March 31, 2014
 
 ********************************************************
 
@@ -1194,6 +1194,10 @@ Generally speaking, would you say that people can be trusted or distrusted?
 4. Most of the people cannot be trusted
 5. You can't trust people
 5. Can’t choose
+
+How much do yout trust people when you meet them for the first time?
+
+
 
 In general, how satisfied you are in
 ----------------------------------------------------------------------------------------------------------
