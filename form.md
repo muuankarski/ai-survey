@@ -87,7 +87,7 @@ What was his or her occupation’s branch of economy?
 9. Finances, credit or insurance, for instance banking 
 10. Trade including wholesale or retail
 11. Services, for instance laundery, repairs 
-12. Communal services, for instance lLocal service office 
+12. Communal services, for instance Local service office 
 13. Education, for instance a school or an institute 
 14. Health care, for instance a clinic or a hospital
 15. Science or scientific logistics, for instance a scientific institute 
@@ -95,7 +95,7 @@ What was his or her occupation’s branch of economy?
 17. Mass media, for instance a newspapaer or a radio
 18. IT communications and IT- industry
 19. State or municipal offices 
-20.  State on the regional level and state. What kind of public sector organization we are working on. 
+20. State on the regional level and state. What kind of public sector organization we are working on. 
 21. Public organization, for instance trade unions 
 22. Army  
 23. law enforcement bodies (police)
@@ -354,9 +354,8 @@ How many people does it employ including those who work all of its affiliations?
 Have you gotten any retraining?
 ----------------------------------------------------------------------------------------------------------
 
-- ____________
-- ____________
-- ____________
+1. Yes
+2. No
 
 
 What is the occupation of your spouse? Characterize her main job in as many details as possible Not necessary??
@@ -463,28 +462,36 @@ Does your job allow you to independently decide what to do and how, implement yo
 2. No
 3. hard to say 
 
-To what extent can you determine the nature of the product or a service that you produce?
-----------------------------------------------------------------------------------------------------------
+How well do the following claims describe your work?
 
-1. To a great extent
-2. Partially yes, partially no
-3. To a small extent
-4. hard to say
+*scale:*
+
+| To a great extent | Partially yes, partially no | To a small extent | hard to say |
+| --- | ----- | ---- | ----- |
+| 1  |  2   |  3  |  4  |
+
+
+1. To what extent can you determine the nature of the product or a service that you produce?
+2. To what extent can you plan your own work?
+3. To what extent your main job requires new ideas, creative decisions?
+4. To what extent can you determine the pace and time of your work?
+5.To what extend you can use your own skill and expertise in your work?
+6. Does your job correspond with the speciality you received at training institution?
 
 How many hours do you work weekly on the major job?
 ----------------------------------------------------------------------------------------------------------
 
 - ____ hours
 
-To what extent can you determine the pace and time of your work?
-----------------------------------------------------------------------------------------------------------
 
-1. To a great extent
-2. Partially yes, partially no
-3. To a small extent 
-4. Hard to say 
+Is your work regular daytime work?
+-------------------------------------------------------------------------------------------------------------
 
-
+1. regular day time work
+2. regular in two shifts
+3. regular in three shifts
+4. irregular working hours
+5. somehing else
 
 While doing your job, do you often get physically tired?
 ----------------------------------------------------------------------------------------------------------
@@ -679,9 +686,8 @@ Some people think that trade-unions are not necessary in modern world, but thing
 2. Trade-unions are important if they work as partners with the employers
 3. Trade-unions should influence only to issues of work-conditions, but not wages 
 4. Trade-unions are just tools in the hands of the management
-5. Trade-unions are not necessary in the modern world
-6. Trade-unions, though necessary, should not impede or slow the development of the enterprise
-
+5. Trade-unions, though necessary, should not impede or slow the development of the enterprise
+6. Trade-unions are not necessary in the modern world
 
 
 
@@ -762,6 +768,14 @@ Which of the relatives permanently live with you under one roof?
 5. Your brothers and sisters
 6. Brothers or sisters of your spouse
 7. Other relatives
+
+
+Do you take care of your parents, your spouse's parents or other elderly people?
+--------------------------------------------------------------------------------------------
+
+1. Yes
+2. No
+
 
 How many members of your family lives under the same roof with you?
 ----------------------------------------------------------------------------------------------------------
@@ -1203,7 +1217,7 @@ In which of the following organizations you participate, or only formally belong
 11. Disabled organization
 10. Sport clubs, associations
 11. Consumer organizations
-12. Formal or informal councils of residents oryard councils
+12. Formal or informal councils of residents or yard councils
 13. Hobby clubs (fishing, hunting)
 14. other clubs of organizations (specify ___________) 
 
@@ -1329,11 +1343,9 @@ Which of the following makes you think that your salary/wages are just?
 7. The payment accounts for the work conditions at my workplace
 8. On my enterprise other workers with a job like mine get the same salary
 9. Other enterprises pay the same salary
-10. My salary is similar to the salary of workers in other countries doing a job
-like mine
+10. My salary is similar to the salary of workers in other countries doing a job like mine
 11. My salary shows that the enterprise management respects employees
-12. The enterprise is in such condition that one cannot count on a higher
-salary
+12. The enterprise is in such condition that one cannot count on a higher salary
 13. My salary is good enough to lead a normal, decent life
 14. I regard my salary is good enough anyway
 
@@ -1349,8 +1361,7 @@ Which of the following makes you think so?
 
 1. My salary is too small for the amount of work that I do
 2. My salary does not account for my skills, experience
-3. My salary does not take into account the responsibility that I bear at my
-workplace
+3. My salary does not take into account the responsibility that I bear at my workplace
 4. My salary does not account for my managerial functions 
 5. My salary does not account for the overwork that I do
 6. The salary is too low for a worker of my zeal and diligence
@@ -1366,18 +1377,18 @@ workplace
 In your opinion why is your salary so low ? Choose no more than two options from the list 
 ----------------------------------------------------
 
-1.  Other workers like me who try to get an advantage over their colleagues 1
-2.  My immediate higher-ups 2
-3.  The top managers of the enterprise where I work 3
-4.  Owners of the enterprise 4
-5.  State bureaucrats 5
-6.  Such is the state of economy 6
-7.  The country’s tradition to underpay workers 7
-8.  Bad laws, rules and norms that regulate the labor payment 8
-9.  I myself  9
-10.  Migrants who agreed to pay for low wages 10
-11.  OTHER (WHAT?) 88
- 12. HARD TO SAY 99
+1. Other workers like me who try to get an advantage over their colleagues 1
+2. My immediate higher-ups 2
+3. The top managers of the enterprise where I work 3
+4. Owners of the enterprise 4
+5. State bureaucrats 5
+6. Such is the state of economy 6
+7. The country’s tradition to underpay workers 7
+8. Bad laws, rules and norms that regulate the labor payment 8
+9. I myself  9
+10. Migrants who agreed to pay for low wages 10
+11. OTHER (WHAT?) 88
+12. HARD TO SAY 99
 
 
  Let talk for a moment  about the country as a whole. How often do you think the following conditions must influence the salary level in our country?
@@ -1659,6 +1670,8 @@ Type of settlement where interview was held
 Name of the settlement? (optional)
 ----------------------------------------------------------------------------------------------------------
 
+
+`Optional: region of origin of repondent and parents?`
 
 **********
 **********
