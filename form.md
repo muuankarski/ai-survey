@@ -727,17 +727,53 @@ How many children do you have under age 18?
 4. Four
 5. More than four
 
+
+
+How many children do you have under school age?
+----------------------------------------------------------------------------------------------------------
+
+1. One
+2. Two
+3. Three
+4. Four
+5. More than four
+
+
+In case you have children under school age, in what kind of daycare they are
+-----------------------------------------------------------------------------------------------------------
+
+1. at home with mother
+1. at home with father
+1. at home with grandparent
+1. at home with other relative
+2. at home with hired nanny
+3. at public daycare center
+4. at private daycare center
+
+
+Which of the relatives permanently live with you under one roof?
+--------------------------------------------------------------------------------------------
+
+1. Spouse
+2. Children
+3. Your parents
+3. Spouse's parents
+4. Spouse's children
+5. Your brothers and sisters
+6. Brothers or sisters of your spouse
+7. Other relatives
+
 How many members of your family lives under the same roof with you?
 ----------------------------------------------------------------------------------------------------------
 
 - ___ persons
-
 
 How often do you spend time on the following pastimes? Do it every day, every week, every month, three to six times a year, less frequently, never.
 ----------------------------------------------------------------------------------------------------------
 
 1. Going to a concert or theater
 2. Going to libraries
+3. Visiting local house of culture
 3. Going to a restaurants, café, bar, pub
 4. Visiting friends, receiving guests
 5. Going to the cinema
@@ -824,10 +860,11 @@ What kind of state benefits or allowances do you get?
 
 1. Unemployment benefits    
 2. Children support subsidy
+3. Maternity benefits
 3. Communal payment rebate
 4. Allowance for the handicapped 
 5. Pensions
-6. Free medication
+6. monthly cash payments (monetized l'goty)
 7. Other
 
 What kind of state benefits or allowances do you get?  NON-MONETARY / IN-KIND
@@ -836,6 +873,17 @@ What kind of state benefits or allowances do you get?  NON-MONETARY / IN-KIND
 - ____________
 - ____________
 - ____________
+
+What kind of maternity or child benefits do you get?
+-----------------------------------------------------------------------------------------------------------
+
+1. birth or adoption grant
+2. child benefit
+3. child care benefit
+4. birth certificate
+5. Maternity capital
+
+
 
 Which of the following social benefits did you get at your workplace ten years ago?
 ----------------------------------------------------------------------------------------------------------
@@ -1117,14 +1165,14 @@ Which of the following events did you take part in 2010-2014?
 7. Took part in an electoral campaign in the team of a candidate
 8. Voted in local elections
 
-Are you a member of a party or a social movement?
+Are you a member of a political party or a social organisation? 
 ----------------------------------------------------------------------------------------------------------
 
 1. Yes    1     [go to question XX]
 2. No    2    [go to question XX]
 
 
-What is the name of that party or a social movement?
+What is the name of that political party or a social organisation?
 ----------------------------------------------------------------------------------------------------------
 
 - _________________________
@@ -1151,10 +1199,11 @@ In which of the following organizations you participate, or only formally belong
 7. Environmental organization
 8. youth organizations (clubs)
 9. Women’s organizations (clubs)
+10. Veterans or pensioners organization
+11. Disabled organization
 10. Sport clubs, associations
 11. Consumer organizations
-12. Formal or informal councils of residents or
-yard councils
+12. Formal or informal councils of residents oryard councils
 13. Hobby clubs (fishing, hunting)
 14. other clubs of organizations (specify ___________) 
 
@@ -1179,6 +1228,7 @@ To what extent do you trust the following authorities, public organizations or g
 9. Courts
 10. Police
 11. Trade unions
+12. non-government organizations (общественные/некоммеческие/негосударственные организации?)
 12. Television
 13. Newspapers
 14. Banks
@@ -1195,9 +1245,6 @@ Generally speaking, would you say that people can be trusted or distrusted?
 5. You can't trust people
 5. Can’t choose
 
-How much do yout trust people when you meet them for the first time?
-
-
 
 In general, how satisfied you are in
 ----------------------------------------------------------------------------------------------------------
@@ -1210,10 +1257,12 @@ In general, how satisfied you are in
 
 1. the health care?
 2. educational system ?
+3. social services or social support?
 3. the way in which the government takes care of its duties?
 4. the way in which the Duma takes care of its duties?
 5. the way in which the President takes care of its duties?
 6. how politicians functions in Russia?
+
 
 Do you agree or disagree with following statements?
 ----------------------------------------------------------------------------------------------------------
@@ -1397,14 +1446,11 @@ To which confession do you belong?
 10. Other
 11. Don’t know
 
-Which group or groups do you feel like you belong to? (Valdai Groupin Identiteetti-kyselyn kysymys)
+Which group or groups do you feel like you belong to? `(Valdai Groupin Identiteetti-kyselyn kysymys)`
 ----------------------------------------------------------------------------------------------------------
 
 1. Middle class
 2. Pensioners
-3. Russians
-4. Christians or Orthodox Christians
-5. Russian citizen
 6. Working people
 7. Intelligentsija
 8. Resident of big city
@@ -1415,13 +1461,17 @@ Which group or groups do you feel like you belong to? (Valdai Groupin Identiteet
 13. Other
 14. Don’t know
 
+3. Russians
+5. Russian citizen
+
+
 
 In your view who should run the following services. Citizens themselves, private companies, local authorities, regional authorities or federal power? Choose one answer for each category –Probably here there should be NGO’s as a separate class and NGO’s and state as separate?.
 ----------------------------------------------------------------------------------------------------------
 
-| Citizens | Private companies | Local authorities | Regional authorities | State, federal power |  NGO |  Hard to say |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| 1 |  2  |   3 |   4  |  5  |  6  |   9 |
+| Citizens | Private companies | Local authorities | Regional authorities | State, federal power |  NGO | Religious organization | Hard to say |
+| ---- | ---- | ---- | ---- | ---- | ---- | -- |
+| 1 |  2  |   3 |   4  |  5  |  6  |  7 |  9 |
 
 1. Taking care of children
 2. Taking care of the elderly
@@ -1514,6 +1564,7 @@ How acute conflicts do you see between these dimensions?
 1. Income (Rich-Poor)
 2. Generation (Old - young)
 4. Social class (Workers - Oligarks)
+5. Family (благополучная OR неблагополучная семья)
 5. Ethnicity (Russians - non-Russians)
 6. Religion (Christians - others)
 7. Place of residence (Cities - countryside)
