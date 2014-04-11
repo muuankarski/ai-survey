@@ -1,6 +1,6 @@
 % Social Distinctions in Contemporary Russia
 % Russian academy of sciences institute of sociology & Aleksanteri institute
-% March 31, 2014
+% April 11, 2014
 
 ********************************************************
 
@@ -462,7 +462,25 @@ Does your job allow you to independently decide what to do and how, implement yo
 2. No
 3. hard to say 
 
+How has your work changed over the past five years?
+---------------------------------------------------------
+
+*scale:*
+
+|  Gone worse | No change |  Improved | Do not know |
+| ---- | ---- | ----- | ----- |
+|  1  |  2  |  3  |  9 |
+
+1. Possibility to use skills and knowledge
+2. wage
+3. relation between employrs and managers
+4. social benefits
+5. technological sophistication
+6. promoting possibilities
+
+
 How well do the following claims describe your work?
+-------------------------------------------------------
 
 *scale:*
 
@@ -675,12 +693,6 @@ Are you a member of a trade union?
 
 Some people think that trade-unions are not necessary in modern world, but things are better agree at company-level or privately. Others argue that trade-unions are inevitable to articulate and defend the interests of the employees in the issues of wages, work conditions and equality. What is your opinion about trade-unions?
 ----------------------------------------------------------------------------------------------------------
-
-*Scale:*
-
-| Completely agree | Agree | Not agree nor disagree | Disagree | Completely disagree | Not applicaple |
-|  ---- | ---- | ---- | ---- | ---- | ---- |
-|  1  |  2  |  3  |  4  |  5  |  9  |
 
 1. Trade-unions are important for the defending the interests of the employees
 2. Trade-unions are important if they work as partners with the employers
@@ -1028,6 +1040,56 @@ Number of square meters?
 ----------------------------------------------------------------------------------------------------------
 
 
+What health care facilities and services do you and other members of your family use? 
+---------------------------------------------------------------------------------------------
+
+*scale:* 
+
+| Yes | No |
+| --  | ---- |
+| 1  |  2 |
+
+1. state/public polyclinic, hospital
+2. at work
+3. private clinic, specialists
+4. INGO (non-state, non-commercial) health facilities  
+5. alternative/traditional healer
+
+
+Do you and members of your family have access to the medical services you need? If not, why do you or family members not get or complete needed treatments?
+--------------------------------------------------------------------------------------
+
+*Scale:*
+
+| Completely agree | Agree | Not agree nor disagree | Disagree | Completely disagree | Not applicaple |
+|  ---- | ---- | ---- | ---- | ---- | ---- |
+|  1  |  2  |  3  |  4  |  5  |  9  |
+
+
+1. services cost too much
+2. medicines cost too much
+3. specialists are not available
+4. I don't have the right connections or networks 
+5. clinics/hospital are too far away from home and work
+6. no medical insurance
+
+
+How do you and your family cope with lack of needed medical care?
+--------------------------------------------------------------------------------------
+
+*scale:* 
+
+| Yes | No |
+| --  | ---- |
+| 1  |  2 |
+
+- rely on self-treatment, family or friends
+- rely on newspapers, tv or the internet for advice
+- travel to cities/facilities that have necessary services
+- turn to local government/ elected leaders to  improve health care
+- other 
+
+
 
 
 Information and media
@@ -1240,6 +1302,7 @@ To what extent do you trust the following authorities, public organizations or g
 7. Russian orthodox church
 8. Army
 9. Courts
+10. Polyclinics/ hospitals
 10. Police
 11. Trade unions
 12. non-government organizations (общественные/некоммеческие/негосударственные организации?)
