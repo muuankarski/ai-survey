@@ -191,6 +191,28 @@ What was/is your mothers’ educational level?
 9.  Scientific degree
 
 
+Have you or any of your parents ever been a member of the Communist Party?  Comment by Mikhail Chernysh: what party do we mean? CPSU or CPRF? These are different parties, the latter is more part of the civil society that the backbone of the political system.
+-------------------------------------------------------------------------------------------------
+
+1. The respondent
+2. The respondent’s father
+3. The respondent’s mother
+4. Any other member of your family
+5. Nobody
+
+
+
+
+
+Have you been member of following organisation during the Soviet period? Comment by MIkhail Chernysh: what about Pioneer's organization. A large number of contemporary Russians never reached Komsomol but ended their Communist career with the Pioneers. It is part of their habitus.  One more point: membership did not mean much. It was more important to be an active member, a part of the hierarchy - member of the Committee on the enterprise, or local. In other words, there should be a dividing line between "careersts" and unimportant "members". I do not understand why we need a sports association here. Sport clubs? But they had nothing to do with the Communicst organizations. I was a member of the "Torpedo" club, played badminton for it. It was a merry-go-round kind of organization with absolutely no ideology in it. What do we mean by women's organizations? There was the so-called Soviet women's committee, but otherwise there were no specific women's organizations. Trade unions: every working Soviet citizen was a member of trade unions. I meant you had to pay dues and in exchange could touch on some resources.  All of it was largely automatic. Some Soviets did not even know that they were members of some trade unions.
+
+-------------------------------------------------------------------------------------------------
+
+1. trade union
+2. komsomol
+3. womens organisation
+4. sports association
+
 
 Employment
 =======================================================================
@@ -358,7 +380,7 @@ Have you gotten any retraining?
 2. No
 
 
-What is the occupation of your spouse? Characterize her main job in as many details as possible Not necessary??
+What is the occupation of your spouse? Characterize her main job in as many details as possible.
 ----------------------------------------------------------------------------------------------------------
 
 - ____________
@@ -369,7 +391,7 @@ What is the occupation of your spouse? Characterize her main job in as many deta
 What is his or her occupation’s branch of economy?
 ----------------------------------------------------------------------------------------------------------
 
-1.  Extraction industry , for instance coal mining or oil extraction
+1. Extraction industry , for instance coal mining or oil extraction
 2. Processing industry, for instance machine building
 3. Power production, for instance power station
 4. Transportation for instance railway or air carrier
@@ -416,7 +438,7 @@ How many persons work in Your enterprise, in addition to You?
 - ___ persons
 
 
-Do you have a second job? - Is this relevant when there is no continuation as to industry of the job or other features?.
+Do you have a second job? 
 ----------------------------------------------------------------------------------------------------------
 
 1. Yes
@@ -462,7 +484,7 @@ Does your job allow you to independently decide what to do and how, implement yo
 2. No
 3. hard to say 
 
-How has your work changed over the past five years?
+How has your work changed over the past five years? Comment by Mikhail Chernysh: well, what if the respondent changed jobs? Or if he or she was promited in that period? Would we still be asking this question? There is some difference between the workplace deterioration and a new job that can be worse in terms of technology,  but bette in terms of wages. 
 ---------------------------------------------------------
 
 *scale:*
@@ -496,13 +518,22 @@ How well do the following claims describe your work?
 5.To what extend you can use your own skill and expertise in your work?
 6. Does your job correspond with the speciality you received at training institution?
 
+How many people in the same position as You  can expect to be promoted in your work place? Cimment by Mikhail Chernysh: could make a time frame for it. "In the next 5 years", let us say. Otherwise, who knows what the future holds for us.
+
+1 Everybody/ All
+2.Many /Most
+3.Some
+4.Only few
+5.Nobody
+9.Hard to say
+
 How many hours do you work weekly on the major job?
 ----------------------------------------------------------------------------------------------------------
 
 - ____ hours
 
 
-Is your work regular daytime work?
+Is your work regular daytime work? 
 -------------------------------------------------------------------------------------------------------------
 
 1. regular day time work
@@ -511,7 +542,7 @@ Is your work regular daytime work?
 4. irregular working hours
 5. somehing else
 
-While doing your job, do you often get physically tired?
+In your job, how often do you get physically tired?
 ----------------------------------------------------------------------------------------------------------
 
 1. Almost always    5
@@ -531,6 +562,27 @@ In your job, how often do you get mentally tired?
 5. Never    1
 9. Hard to say   
 
+In Your job: how often You have
+____________________________________
+
+1. Hectic pace of work
+
+ Almost always    5
+2. Often     4
+3. Sometimes    3
+4. Seldom    2
+5. Never    1
+9. Hard to say 
+
+,
+2. Excessive work load  OR Too much work to do?
+
+always    5
+2. Often     4
+3. Sometimes    3
+4. Seldom    2
+5. Never    1
+9. Hard to say 
 
 Who mainly takes the following decisions at your workplace? You, your higher-up, you and your higher-up together?
 ----------------------------------------------------------------------------------------------------------
@@ -540,7 +592,6 @@ Who mainly takes the following decisions at your workplace? You, your higher-up,
 | You | My higher-up  | Together | Hard to say |
 | ---- | ---- | --- | ---- | 
 |   1 |   2  | 3  |  4  |
-
 
 1. When to come to work
 2. When to leave work
@@ -691,7 +742,8 @@ Are you a member of a trade union?
 1. Yes 
 2. No
 
-Some people think that trade-unions are not necessary in modern world, but things are better agree at company-level or privately. Others argue that trade-unions are inevitable to articulate and defend the interests of the employees in the issues of wages, work conditions and equality. What is your opinion about trade-unions?
+Some people think that trade-unions are not necessary in modern world, but things are better agree at company-level or privately. Others argue that trade-unions are inevitable to articulate and defend the interests of the employees in the issues of wages, work conditions and equality. What is your opinion about trade-unions?  Comment by Mikhail Chernysh: how many options do we give the respondent? The choice is not contradictory, so the respondent may believe that trade unions are not important and at the same time claim that trade unions are tools in the hands of management. In fact there is a logic in such a position. I sugget that we ask one more question:
+What is the role of trade union in your organization. Is is more a tool in the hands of management or more a defender of the rights of workers. In the options there should also be 1) it is inactive, 2) it reports to higher trade union organization, not to workers or managers.
 ----------------------------------------------------------------------------------------------------------
 
 1. Trade-unions are important for the defending the interests of the employees
@@ -794,7 +846,7 @@ How many members of your family lives under the same roof with you?
 
 - ___ persons
 
-How often do you spend time on the following pastimes? Do it every day, every week, every month, three to six times a year, less frequently, never.
+How often do you spend time on the following pastimes? Do it every day, every week, every month, three to six times a year, less frequently, never. Comment by Mikhail Chernysh: well, we have to do something with the options  or the scale. It is impossible to to every day to the library unless you are a librarian. It is hard to go visiting friends every day or drink everyday in the company of friends. I would suggest that we divide pastimes in "frequent" and "infrequent" and divise different scales for them. Going to a cafe, taking sports, playing computer games would be "frequent", admitting of every day engagement. Theater, concert, libraries, guests would be "infrequentl" pastimes. For them we can have "less frequently than once a month, 2-3 times a month, 4-5 times a month, 6-7 times a month, more than 7 times a month.
 ----------------------------------------------------------------------------------------------------------
 
 1. Going to a concert or theater
@@ -821,6 +873,7 @@ How important for your family are the following sources of income, means of subs
 *scale:*
 
 | Very important | Important | A little bit important | Not important | No such source  | hard to say |
+Comment by Mikhail Chernysh: shares, financial speculation, occasional moonlighting might be added
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |  3  |   2  |  1  |  0  |  8   |   9  |
 
@@ -890,7 +943,7 @@ What kind of state benefits or allowances do you get?
 3. Communal payment rebate
 4. Allowance for the handicapped 
 5. Pensions
-6. monthly cash payments (monetized l'goty)
+6.Monthly cash payments (monetized l'goty)
 7. Other
 
 What kind of state benefits or allowances do you get?  NON-MONETARY / IN-KIND
@@ -1040,7 +1093,7 @@ Number of square meters?
 ----------------------------------------------------------------------------------------------------------
 
 
-What health care facilities and services do you and other members of your family use? 
+What health care facilities and services do you and other members of your family use?  Comment by Mikhail Chernysh. It is a mighty good quesiton, but at present it looks like a double barrel. "You and other members of the family"  might mean very different healing strategies. A possible alternative: 1) did you recieve any medical care in the last 12 months. In what way did you get medical care?
 ---------------------------------------------------------------------------------------------
 
 *scale:* 
@@ -1056,7 +1109,7 @@ What health care facilities and services do you and other members of your family
 5. alternative/traditional healer
 
 
-Do you and members of your family have access to the medical services you need? If not, why do you or family members not get or complete needed treatments?
+Do you and members of your family have access to the medical services you need? If not, why do you or family members not get or complete needed treatments? Comment by MIkhail Chernysh: I guess at present its is a double barrel. There is one more complication: most Russians do not know whether they have access to medical care or not unless they develop a need for it.  The concepts might be quite hazy in the minds of the Russians.
 --------------------------------------------------------------------------------------
 
 *Scale:*
@@ -1140,13 +1193,13 @@ What do you use your smart phone for?
 - using it as a navigator
 
 
-Do you regularly read newspapers?
+Do you regularly read newspapers? Comment by Mikhail Chernysh: what do we mean by regularly? Once a month, would it be regularly?
 --------------------------------------------------------------------------------------------------------
 
 1. Yes
 2. No
 
-What newspapers did you read last week? Please list all the daily and weekly newspapers that you read including local and central ones, as well as ordinary printed and Internet-newspapers  
+What newspapers did you read last week? Please list all the daily and weekly newspapers that you read including local and central ones, as well as ordinary printed and Internet-newspapers.. Comment by Mikhail Chernysh: well, Jukko, what do we do with the question? The questions splits into thousand local options? How do we code them? 
 ----------------------------------------------------------------------------------------------------------
 
 - ____________
@@ -1183,14 +1236,14 @@ What magazines did you read last month? Please list all magazines that you came 
 - ____________
 
 
-Which TV channels do you watch no less than three times a week?
+Which TV channels do you watch no less than three times a week? Comment by MIkhail Chernysh: dear colleagues, the answer to this question is ready. Three national channels, plus STS.
 ----------------------------------------------------------------------------------------------------------
 
 - ____________
 - ____________
 - ____________
 
-What radio stations do you listen to no less than three times a week?
+What radio stations do you listen to no less than three times a week? Radio stations, there are thousands of them across Russia. What do we do with the data?
 ----------------------------------------------------------------------------------------------------------
 
 - ____________
@@ -1241,7 +1294,7 @@ Which of the following events did you take part in 2010-2014?
 7. Took part in an electoral campaign in the team of a candidate
 8. Voted in local elections
 
-Are you a member of a political party or a social organisation? 
+Are you a member of a political party or a social organisation?  In some cases, memebership is not important. Those who took part in the protests were not members of any political organizaitons.
 ----------------------------------------------------------------------------------------------------------
 
 1. Yes    1     [go to question XX]
