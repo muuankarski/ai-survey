@@ -1552,7 +1552,7 @@ And on what does the salary level depends on at present? Evaluate the influence 
 Values and convictions
 ============================================================
 
-Are you a believer?
+Are you a believing person?
 ----------------------------------------------------------------------------------------------------------
 
 1. Yes
@@ -1569,9 +1569,10 @@ To which confession do you belong?
 6. Jewish    
 7. Buddism    
 8. Krishanism
-9. I believe in God but do not identify as a specific religion    
-10. Other
-11. Don’t know
+9. I believe in God but do not identify as a specific religion
+10.Atheism    
+11. Other, what?________________
+12. Don’t know
 
 Which group or groups do you feel like you belong to? `(Valdai Groupin Identiteetti-kyselyn kysymys)`
 ----------------------------------------------------------------------------------------------------------
@@ -1678,6 +1679,36 @@ To which ethnicity do you refer yourself?
 6. Jewish
 7. Other, specify which _______________________ 
 9. Hard to say
+
+
+What is you native language?
+
+1. Russian
+2. Ukrainian
+3. Tatar
+4. Chuvash
+5. Belorussian
+6. Jewish
+7. Other, specify which _______________________ 
+9. Hard to say
+
+If your native language is not Russian, what is your command in Russian?
+
+*scale*
+
+Speak  fluently and write well | Speak fluently but do not write well  |Speak a  little bit |Is able only to read |  No command at all | Hard to say  |
+|  ---- | ---- | ---- | ---- | ---- | ---- |
+|  1  |  2  |  3  |  4  |  5  |  9  
+ 
+
+What is your command in English?
+
+*scale*
+
+Speak   fluently and write well | Speak fluently but do not write well  |Speak  a  little bit |Is able only to read |  No command at all | Hard to say  |
+|  ---- | ---- | ---- | ---- | ---- | ---- |
+|  1  |  2  |  3  |  4  |  5  |  9  
+ 
 
 How acute conflicts do you see between these dimensions?
 ----------------------------------------------------------------------------------------------------------
