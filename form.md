@@ -1,6 +1,6 @@
 % Social Distinctions in Contemporary Russia
 % Russian academy of sciences institute of sociology & Aleksanteri institute
-% April 11, 2014
+% April 22, 2014
 
 ********************************************************
 
