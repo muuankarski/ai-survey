@@ -191,7 +191,7 @@ What was/is your mothers’ educational level?
 9.  Scientific degree
 
 
-Have you or any of your parents ever been a member of the Communist Party?  Comment by Mikhail Chernysh: what party do we mean? CPSU or CPRF? These are different parties, the latter is more part of the civil society that the backbone of the political system.
+Have you or any of your parents ever been a member of the Communist Party?  ( CPSU / CPRF) 
 -------------------------------------------------------------------------------------------------
 
 1. The respondent
@@ -200,18 +200,6 @@ Have you or any of your parents ever been a member of the Communist Party?  Comm
 4. Any other member of your family
 5. Nobody
 
-
-
-
-
-Have you been member of following organisation during the Soviet period? Comment by MIkhail Chernysh: what about Pioneer's organization. A large number of contemporary Russians never reached Komsomol but ended their Communist career with the Pioneers. It is part of their habitus.  One more point: membership did not mean much. It was more important to be an active member, a part of the hierarchy - member of the Committee on the enterprise, or local. In other words, there should be a dividing line between "careersts" and unimportant "members". I do not understand why we need a sports association here. Sport clubs? But they had nothing to do with the Communicst organizations. I was a member of the "Torpedo" club, played badminton for it. It was a merry-go-round kind of organization with absolutely no ideology in it. What do we mean by women's organizations? There was the so-called Soviet women's committee, but otherwise there were no specific women's organizations. Trade unions: every working Soviet citizen was a member of trade unions. I meant you had to pay dues and in exchange could touch on some resources.  All of it was largely automatic. Some Soviets did not even know that they were members of some trade unions.
-
--------------------------------------------------------------------------------------------------
-
-1. trade union
-2. komsomol
-3. womens organisation
-4. sports association
 
 
 Employment
@@ -273,6 +261,8 @@ Are you employed at present?
 2. No
 
 
+
+
 Why are you not employed now? 
 ----------------------------------------------------------------------------------------------------------
 
@@ -299,6 +289,10 @@ is your main occupation at present? Characterize in a most detailed form your sp
 - ____________
 - ____________
 
+How may years have you worked in your present job?
+----------------------------------------------------------------------------------------------------------
+
+- ____________
 
 What is your branch of economy? 
 ----------------------------------------------------------------------------------------------------------
@@ -463,7 +457,7 @@ What is the  branch of economy of your second job?
 14. Health care, for instance a clinic or a hospital
 15. Science or scientific logistics, for instance a scientific institute 
 16. Culture or leisure provision, for instance a library or a movie house 
-17. Mass media, for instance a newspapaer or a radio
+17. Mass media, for instance a newspaper or a radio
 18. IT communications and it industry
 19, State or municipal offices 
 20.  State on the regional level and state. What kind of public sector organization we are working on. 
@@ -484,7 +478,7 @@ Does your job allow you to independently decide what to do and how, implement yo
 2. No
 3. hard to say 
 
-How has your work changed over the past five years? Comment by Mikhail Chernysh: well, what if the respondent changed jobs? Or if he or she was promited in that period? Would we still be asking this question? There is some difference between the workplace deterioration and a new job that can be worse in terms of technology,  but bette in terms of wages. 
+How has your work changed over the past five years?
 ---------------------------------------------------------
 
 *scale:*
@@ -518,7 +512,8 @@ How well do the following claims describe your work?
 5.To what extend you can use your own skill and expertise in your work?
 6. Does your job correspond with the speciality you received at training institution?
 
-How many people in the same position as You  can expect to be promoted in your work place? Cimment by Mikhail Chernysh: could make a time frame for it. "In the next 5 years", let us say. Otherwise, who knows what the future holds for us.
+How many people in the same position as You  can expect to be promoted in your work place in next 5 years? 
+
 
 1 Everybody/ All
 2.Many /Most
@@ -567,7 +562,7 @@ ____________________________________
 
 1. Hectic pace of work
 
- Almost always    5
+1.Almost always    5
 2. Often     4
 3. Sometimes    3
 4. Seldom    2
@@ -577,7 +572,7 @@ ____________________________________
 ,
 2. Excessive work load  OR Too much work to do?
 
-always    5
+1.Always    5
 2. Often     4
 3. Sometimes    3
 4. Seldom    2
@@ -613,7 +608,7 @@ To which of the following categories do you belong?
 4. Not applicable [go to question XX]
 
 
-How many employees report to you directly? These are employees whose task is to fulfill your orders? I don’t find this as relevant or if we keep it, it should be closed (classified) question.
+How many employees report to you directly? These are employees whose task is to fulfill your orders. 
 ----------------------------------------------------------------------------------------------------------
 
 - ___ persons
@@ -743,7 +738,7 @@ Are you a member of a trade union?
 2. No
 
 Some people think that trade-unions are not necessary in modern world, but things are better agree at company-level or privately. Others argue that trade-unions are inevitable to articulate and defend the interests of the employees in the issues of wages, work conditions and equality. What is your opinion about trade-unions?  Comment by Mikhail Chernysh: how many options do we give the respondent? The choice is not contradictory, so the respondent may believe that trade unions are not important and at the same time claim that trade unions are tools in the hands of management. In fact there is a logic in such a position. I sugget that we ask one more question:
-What is the role of trade union in your organization. Is is more a tool in the hands of management or more a defender of the rights of workers. In the options there should also be 1) it is inactive, 2) it reports to higher trade union organization, not to workers or managers.
+
 ----------------------------------------------------------------------------------------------------------
 
 1. Trade-unions are important for the defending the interests of the employees
@@ -754,7 +749,14 @@ What is the role of trade union in your organization. Is is more a tool in the h
 6. Trade-unions are not necessary in the modern world
 
 
+What  is the role of trade union in Your organization?
+---------------------------------------------------------------------------------------------------------
 
+1. It is more a tool in  the hands of management 
+2. It is more a defender of the rights of workers. 
+3. It is inactive 
+4 It reports to  higher trade union organization, not to workers or managers.
+5. Don't know
 
 
 
@@ -849,6 +851,12 @@ How many members of your family lives under the same roof with you?
 How often do you spend time on the following pastimes? Do it every day, every week, every month, three to six times a year, less frequently, never. Comment by Mikhail Chernysh: well, we have to do something with the options  or the scale. It is impossible to to every day to the library unless you are a librarian. It is hard to go visiting friends every day or drink everyday in the company of friends. I would suggest that we divide pastimes in "frequent" and "infrequent" and divise different scales for them. Going to a cafe, taking sports, playing computer games would be "frequent", admitting of every day engagement. Theater, concert, libraries, guests would be "infrequentl" pastimes. For them we can have "less frequently than once a month, 2-3 times a month, 4-5 times a month, 6-7 times a month, more than 7 times a month.
 ----------------------------------------------------------------------------------------------------------
 
+*scale:*
+
+| daily | few times a week | weekly | monthly | few times a year | not at all | not applicaple |
+| ------ | ------ | ------ | ------ | ------ | ------ | --- |
+|  5 |  4  |  3  |   2  |  1  |  0  |   9  |
+
 1. Going to a concert or theater
 2. Going to libraries
 3. Visiting local house of culture
@@ -857,7 +865,7 @@ How often do you spend time on the following pastimes? Do it every day, every we
 5. Going to the cinema
 7. Taking up sports, training
 8. Drinking in the company of friends
-9. Spending time in outdoors
+9. Visiting the nature
 10. Spending time at social media or playing computer games
 
 
@@ -870,10 +878,11 @@ Well-being
 How important for your family are the following sources of income, means of subsistence?
 ----------------------------------------------------------------------------------------------------------
 
+`Comment by Mikhail Chernysh: shares, financial speculation, occasional moonlighting might be added-OK`
+
 *scale:*
 
 | Very important | Important | A little bit important | Not important | No such source  | hard to say |
-Comment by Mikhail Chernysh: shares, financial speculation, occasional moonlighting might be added
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |  3  |   2  |  1  |  0  |  8   |   9  |
 
@@ -886,8 +895,10 @@ Comment by Mikhail Chernysh: shares, financial speculation, occasional moonlight
 7. Letting an apartment or a summer cottage
 8. Interest accumulated by a bank account
 9. Savings
+10. Investment in equities
 10. Philanthropy
-11. Other    
+11. Occasional moonlightning
+12. Other    
 
 
 How is your work paid in your main job?
@@ -898,7 +909,7 @@ How is your work paid in your main job?
 3. Time wage
 4. Fixed salary
 5. Pay  depends on sales or profits/commission
-6. other
+6. Other
 
 How often did you get bonus in the 12 months?
 ----------------------------------------------------------------------------------------------------------
@@ -956,10 +967,10 @@ What kind of state benefits or allowances do you get?  NON-MONETARY / IN-KIND
 What kind of maternity or child benefits do you get?
 -----------------------------------------------------------------------------------------------------------
 
-1. birth or adoption grant
-2. child benefit
-3. child care benefit
-4. birth certificate
+1. Brth or adoption grant
+2. Child benefit
+3. Child care benefit
+4. Birth certificate
 5. Maternity capital
 
 
@@ -984,7 +995,7 @@ Which of the following social benefits did you get at your workplace ten years a
 8. Privileged access to consumer goods
 9. Holiday pay
 10. Sick pay
-11. Obligatory Medical insurance
+11. Obligatory medical insurance
 12. Training at the expense of the enterprise
 
 
@@ -1007,7 +1018,7 @@ Which of the following social benefits do you get at your workplace now?
 8. Privileged access to consumer goods
 9. Holiday pay
 10. Sick pay
-11.  Obligatory Medical insurance
+11.  Obligatory medical insurance
 12. Training at the expense of the enterprise
 
 I shall read the characteristics of several groups. Tell me to which of  them you belong.
@@ -1093,8 +1104,10 @@ Number of square meters?
 ----------------------------------------------------------------------------------------------------------
 
 
-What health care facilities and services do you and other members of your family use?  Comment by Mikhail Chernysh. It is a mighty good quesiton, but at present it looks like a double barrel. "You and other members of the family"  might mean very different healing strategies. A possible alternative: 1) did you recieve any medical care in the last 12 months. In what way did you get medical care?
+What health care facilities and services your family uses? 
 ---------------------------------------------------------------------------------------------
+
+`Comment by Mikhail Chernysh. It is a mighty good quesiton, but at  present it looks like a double barrel. "You and other members of the  family"  might mean very different healing strategies. A possible  alternative: 1) did you recieve any medical care in the last 12 months.  In what way did you get medical care? - changed to only family`
 
 *scale:* 
 
@@ -1109,8 +1122,17 @@ What health care facilities and services do you and other members of your family
 5. alternative/traditional healer
 
 
-Do you and members of your family have access to the medical services you need? If not, why do you or family members not get or complete needed treatments? Comment by MIkhail Chernysh: I guess at present its is a double barrel. There is one more complication: most Russians do not know whether they have access to medical care or not unless they develop a need for it.  The concepts might be quite hazy in the minds of the Russians.
+Does  your family have access to the medical services you need?
+----------------------------------------------------------------------------------------
+
+1. Yes
+2. No
+
+
+If not, why does family not get needed treatments? 
 --------------------------------------------------------------------------------------
+
+`Comment  by MIkhail Chernysh: I guess at present its is a double barrel. There  is one more complication: most Russians do not know whether they have access to medical care or not unless they develop a need for it.  The  concepts might be quite hazy in the minds of the Russians.`
 
 *Scale:*
 
@@ -1176,31 +1198,18 @@ What do you use internet for?
 10. live journal
 
 
-What do you use your smart phone for?
-----------------------------------------------------------------------------------------------------------
-
-| daily | few times a week | weekly | monthly | not at all | not applicaple |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-|  5 |  4  |  3  |   2  |  1  |   9  |
-
-- making phone calls
-- taking photos
-- listening to music
-- watching movies
-- reading books
-- sending messages
-- facebooking
-- using it as a navigator
-
-
-Do you regularly read newspapers? Comment by Mikhail Chernysh: what do we mean by regularly? Once a month, would it be regularly?
+Do you regularly read newspapers? 
 --------------------------------------------------------------------------------------------------------
+
+`Comment by Mikhail Chernysh: what do we mean by regularly? Once a month, would it be regularly?`
 
 1. Yes
 2. No
 
-What newspapers did you read last week? Please list all the daily and weekly newspapers that you read including local and central ones, as well as ordinary printed and Internet-newspapers.. Comment by Mikhail Chernysh: well, Jukko, what do we do with the question? The questions splits into thousand local options? How do we code them? 
+What newspapers did you read last week? Please list all the daily and weekly newspapers that you read including local and central ones, as well as ordinary printed and Internet-newspapers.. 
 ----------------------------------------------------------------------------------------------------------
+
+`Comment  by Mikhail Chernysh: well, Jukko, what do we do with the question? The  questions splits into thousand local options? How do we code them? `
 
 - ____________
 - ____________
@@ -1294,19 +1303,33 @@ Which of the following events did you take part in 2010-2014?
 7. Took part in an electoral campaign in the team of a candidate
 8. Voted in local elections
 
-Are you a member of a political party or a social organisation?  In some cases, memebership is not important. Those who took part in the protests were not members of any political organizaitons.
-----------------------------------------------------------------------------------------------------------
+Which party You voted in last Duma elections?
+-------------------------------------------------------------------------
+ 
+1. A Just Russia (Справедливая Россия)                        
+2. Liberal Democratic Party of Russia (Либерально-Демократическая Партия России)                 
+3.  Patriots of Russia (Патриоты России)                         
+4. Communist Party of the Russian Federation (Коммунистическая Партия Российской Федерации)
+5. Yabloko (Яблоко)      
+6.  United Russia (Единая Россия)         
+7. Right Cause (Правое дело)
+8. Other, what___________________________?
+9. Did not vote
+10. Don't know
 
-1. Yes    1     [go to question XX]
-2. No    2    [go to question XX]
 
+Which candidate You voted in the last Presidential election?
+-------------------------------------------------------------------------
 
-What is the name of that political party or a social organisation?
-----------------------------------------------------------------------------------------------------------
-
-- _________________________
-- _________________________
-- _________________________
+1. Sergey Mironov, A Just Russia
+2. Mikhail Prokhorov, independent, 
+3. Vladimir Putin, United Russia 
+4. Vladimir Zhirinovsky, Liberal Democratic Party of Russia
+5. Gennady Zyuganov, Communist Party of the Russian Federation
+6. Grigory Yavlinsky ,Yabloko
+7. Other
+8.  Did not vote
+9. Don't know
 
 
 In which of the following organizations you participate, or only formally belong without participation, or do not belong at all?
@@ -1358,7 +1381,7 @@ To what extent do you trust the following authorities, public organizations or g
 10. Polyclinics/ hospitals
 10. Police
 11. Trade unions
-12. non-government organizations (общественные/некоммеческие/негосударственные организации?)
+12. Non-governmenalt organizations (общественные/некоммеческие/негосударственные организации?)
 12. Television
 13. Newspapers
 14. Banks
@@ -1385,13 +1408,13 @@ In general, how satisfied you are in
 |  ---- | ---- | ---- | ---- | ---- | ---- |
 |  1  |  2  |  3  |  4  |  5  |  9  |
 
-1. the health care?
-2. educational system ?
-3. social services or social support?
-3. the way in which the government takes care of its duties?
-4. the way in which the Duma takes care of its duties?
-5. the way in which the President takes care of its duties?
-6. how politicians functions in Russia?
+1.The health care?
+2. Educational system ?
+3. Social services or social support?
+3. The way in which the government takes care of its duties?
+4.The way in which the Duma takes care of its duties?
+5. The way in which the President takes care of its duties?
+6. How politicians functions in Russia?
 
 
 Do you agree or disagree with following statements?
