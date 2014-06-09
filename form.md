@@ -62,7 +62,7 @@ Please, recall your childhood, the period of your life when you under 16. Who in
 | Other relative | 9 |
 | education institution | 10 |
 
-- [to question 7]
+- [to question XX]
 
 
 
@@ -106,11 +106,11 @@ What was his or her occupation’s branch of economy?
 | State on the regional level and state. What kind of public sector organization we are working on.| 20 |
 | Public organization, for instance trade unions| 21 |
 | Army | 22 |
-| law enforcement bodies (police) | 23 |
-| judicial system. | 24 |
-| other | 25 |
+| Law enforcement bodies (police) | 23 |
+| Judicial system. | 24 |
+| Other | 25 |
 
-- *[Interviwer! if the respondent named chose only one breadwinner, go to question 7]*
+- *[Interviwer! if the respondent named chose only one breadwinner, go to question XX]*
 
 
 And now choose the second person that you listed. What was his or her occupation’s branch of economy? 
@@ -140,9 +140,9 @@ And now choose the second person that you listed. What was his or her occupation
 | State on the regional level and state. What kind of public sector organization we are working on.| 20 |
 | Public organization, for instance trade unions| 21 |
 | Army | 22 |
-| law enforcement bodies (police) | 23 |
-| judicial system. | 24 |
-| other | 25 |
+| Law enforcement bodies (police) | 23 |
+| Judicial system. | 24 |
+| Other | 25 |
 
 
 What is your educational level?
@@ -160,10 +160,8 @@ What is your educational level?
 | Higher scientific (graduate course) | 8 |
 | Scientific degree | 9 |
 
-
-
-
 - [Interviewer! do not read the last two questions]
+
 
 Let us be more specific. Please tell me how many years did you study at the following institutions?
 ---------------------------------------------------------------------------------------------------------
@@ -265,9 +263,9 @@ In what branch of industry did you work then?
 | State on the regional level and state. What kind of public sector organization we are working on.| 20 |
 | Public organization, for instance trade unions| 21 |
 | Army | 22 |
-| law enforcement bodies (police) | 23 |
-| judicial system. | 24 |
-| other | 25 |
+| Law enforcement bodies (police) | 23 |
+| Judicial system. | 24 |
+| Other | 25 |
 
 
 How did you find yourfirst job? 
@@ -361,9 +359,9 @@ What is your branch of economy?
 | State on the regional level and state. What kind of public sector organization we are working on.| 20 |
 | Public organization, for instance trade unions| 21 |
 | Army | 22 |
-| law enforcement bodies (police) | 23 |
-| judicial system. | 24 |
-| other | 25 |
+| Law enforcement bodies (police) | 23 |
+| Judicial system. | 24 |
+| Other | 25 |
 
 
 How did you get this job? 
@@ -378,8 +376,7 @@ How did you get this job?
 | Employer found me| 5 |
 | Responded to an ad in a newspaper or a magazine | 6 |
 | Created the job myself | 7 |
-| Other way, which one? Please, describe | 8 |
-| ______________________ ||
+| Other way, which one? Please, describe _______ | 8 |
 
 
 What is you employment status? You are permanently employed, working on a contract, or temporarily on the basis of an oral agreement?
@@ -391,9 +388,8 @@ What is you employment status? You are permanently employed, working on a contra
 | Working on a contract | 2 |
 | Oral agreement | 3 |
 | One time job | 4 |
-| not relevant | 5 |
-| Hard to say | 6 |
-
+| Hard to say | 8 |
+| Not applicaple | 9 |
 
 Now a few words about the organizations where you are currently working. What kind of organization is it? A state, public, private-individual or joint stock company?
 ----------------------------------------------------------------------------------------------------------
@@ -404,17 +400,19 @@ Now a few words about the organizations where you are currently working. What ki
 | Private | 2 |
 | Foreign company | 3 |
 | other | 4 |
-| not relevant | 5 |
-| Hard to say | 6 |
-
+| Hard to say | 8 |
+| Not applicaple | 9 |
 
 
 How many people does it employ including those who work all of its affiliations? If you cannot say exactly, just make a guess.
 ----------------------------------------------------------------------------------------------------------
 
 
-1. ___ persons
-2. hard to say
+|||
+| ------------- |------------- |
+| number of persons | ___ |
+| Hard to say | -1 |
+
 
 
 Have you gotten any retraining?
@@ -460,9 +458,9 @@ What is his or her occupation’s branch of economy?
 | State on the regional level and state. What kind of public sector organization we are working on.| 20 |
 | Public organization, for instance trade unions| 21 |
 | Army | 22 |
-| law enforcement bodies (police) | 23 |
-| judicial system. | 24 |
-| other | 25 |
+| Law enforcement bodies (police) | 23 |
+| Judicial system. | 24 |
+| Other | 25 |
 
 
 
@@ -472,14 +470,14 @@ Self-employment
 Why are you self-employed?
 ----------------------------------------------------------------------------------------------------------
 
-||||
-| ------------- |------------- | ------------- |
-| Personal independence | 1 ||
-| Freedom to choose time and place for work | 2 ||
-| Chance to use my skills and abilities | 3 ||
-| Better incomes | 4 ||
-| Lack of alternative employment | 5 ||
-| Good prospects for business | 6 ||
+|||
+| ------------- |------------- |
+| Personal independence | 1 |
+| Freedom to choose time and place for work | 2 |
+| Chance to use my skills and abilities | 3 |
+| Better incomes | 4 |
+| Lack of alternative employment | 5 |
+| Good prospects for business | 6 |
 
 
 How many persons work in Your enterprise, in addition to You?
@@ -496,7 +494,7 @@ Do you have a second job?
 | yes | 1 |
 | no | 2 |
 
-What is thebranch of economy of your second job?
+What is the branch of economy of your second job?
 ----------------------------------------------------------------------------------------------------------
 
 |||
@@ -523,9 +521,9 @@ What is thebranch of economy of your second job?
 | State on the regional level and state. What kind of public sector organization we are working on.| 20 |
 | Public organization, for instance trade unions| 21 |
 | Army | 22 |
-| law enforcement bodies (police) | 23 |
-| judicial system. | 24 |
-| other | 25 |
+| Law enforcement bodies (police) | 23 |
+| Judicial system. | 24 |
+| Other | 25 |
 
 
 Work autonomy
@@ -538,48 +536,48 @@ Does your job allow you to independently decide what to do and how, implement yo
 | ------------- | ------------- |
 | yes | 1 |
 | no | 2 |
-| hard to say | 3 |
+| Hard to say | 8 |
 
 How has your work changed over the past five years?
 ---------------------------------------------------------
 
-| item | Gone worse | No change | Improved | Do not know |
+| item | Gone worse | No change | Improved | Hard to say |
 | ------------- | ------------- |------------- | ------------- | ------------- |
-| Possibility to use skills and knowledge | 1 | 2 | 3 | 9 |
-| wage | 1 | 2 | 3 | 9 |
-| relation between employrs and managers | 1 | 2 | 3 | 9 |
-| social benefits | 1 | 2 | 3 | 9 |
-| technological sophistication | 1 | 2 | 3 | 9 |
-| promoting possibilities | 1 | 2 | 3 | 9 |
+| Possibility to use skills and knowledge | 1 | 2 | 3 | 8 |
+| wage | 1 | 2 | 3 | 8 |
+| relation between employrs and managers | 1 | 2 | 3 | 8 |
+| social benefits | 1 | 2 | 3 | 8 |
+| technological sophistication | 1 | 2 | 3 | 8 |
+| promoting possibilities | 1 | 2 | 3 | 8 |
 
 
 
 How well do the following claims describe your work?
 -------------------------------------------------------
 
-| item | To a great extent | Partially yes, partially no | To a small extent | hard to say |
+| item | To a great extent | Partially yes, partially no | To a small extent | Hard to say |
 | ------------- | ------------- |------------- | ------------- | ------------- |
-| To what extent can you determine the nature of the product or a service that you produce? | 3 | 2 | 1 | 9 |
-| To what extent can you plan your own work? | 3 | 2 | 1 | 9 |
-| To what extent your main job requires new ideas, creative decisions? | 3 | 2 | 1 | 9 |
-| To what extent can you determine the pace and time of your work? | 3 | 2 | 1 | 9 |
-| o what extend you can use your own skill and expertise in your work? | 3 | 2 | 1 | 9 |
-| Does your job correspond with the speciality you received at training institution? | 3 | 2 | 1 | 9 |
+| To what extent can you determine the nature of the product or a service that you produce? | 3 | 2 | 1 | 8 |
+| To what extent can you plan your own work? | 3 | 2 | 1 | 8 |
+| To what extent your main job requires new ideas, creative decisions? | 3 | 2 | 1 | 8 |
+| To what extent can you determine the pace and time of your work? | 3 | 2 | 1 | 8 |
+| To what extend you can use your own skill and expertise in your work? | 3 | 2 | 1 | 8 |
+| Does your job correspond with the speciality you received at training institution? | 3 | 2 | 1 | 8 |
 
 
 
 
-How many people in the same position as Youcan expect to be promoted in your work place in next 5 years? 
+How many people in the same position as You can expect to be promoted in your work place in next 5 years? 
 -------------------------------------------------------
 
 |||
 | ------------- |------------- |
-| everybody/ All | 1 |
-| many /Most | 2 |
+| everybody / All | 5 |
+| many / Most | 4 |
 | some | 3 |
-| only few | 4 |
-| nobody | 5 |
-| hard to say | 6 |
+| only few | 2 |
+| nobody | 1 |
+| Hard to say | 8 |
 
 
 How many hours do you work weekly on the major job?
@@ -610,7 +608,7 @@ In your job, how often do you get physically tired?
 | Sometimes | 3 |
 | Seldom | 2 |
 | Never | 1 |
-| Hard to say| 9 |
+| Hard to say| 8 |
 
 In your job, how often do you get mentally tired?
 ----------------------------------------------------------------------------------------------------------
@@ -622,11 +620,11 @@ In your job, how often do you get mentally tired?
 | Sometimes | 3 |
 | Seldom | 2 |
 | Never | 1 |
-| Hard to say| 9 |
+| Hard to say| 8 |
 
 
 
-In Your job: how often You have Hectic pace of work
+In Your job, how often You have hectic pace of work
 ----------------------------------------------------------------------------------------------------------
 
 |||
@@ -636,10 +634,10 @@ In Your job: how often You have Hectic pace of work
 | Sometimes | 3 |
 | Seldom | 2 |
 | Never | 1 |
-| Hard to say| 9 |
+| Hard to say| 8 |
 
 
-In Your job: how often you have Excessive work load OR Too much work to do?
+In Your job, how often you have too much work to do?
 ----------------------------------------------------------------------------------------------------------
 
 |||
@@ -649,21 +647,21 @@ In Your job: how often you have Excessive work load OR Too much work to do?
 | Sometimes | 3 |
 | Seldom | 2 |
 | Never | 1 |
-| Hard to say| 9 |
+| Hard to say| 8 |
 
 
 
 Who mainly takes the following decisions at your workplace? You, your higher-up, you and your higher-up together?
 ----------------------------------------------------------------------------------------------------------
 
-| item | You | My higher-up | Together | hard to say |
+| item | You | My higher-up | Together | Hard to say |
 | ------------- | ------------- |------------- | ------------- | ------------- |
-| When to come to work | 1 | 2 | 3 | 9 |
-| When to leave work | 1 | 2 | 3 | 9 |
-| When to take a one day paid leave | 1 | 2 | 3 | 9 |
-| Which tasks to fulfill | 1 | 2 | 3 | 9 |
-| When to slow the pace of work | 1 | 2 | 3 | 9 |
-| When to take a summer leave | 1 | 2 | 3 | 9 |
+| When to come to work | 1 | 2 | 3 | 8 |
+| When to leave work | 1 | 2 | 3 | 8 |
+| When to take a one day paid leave | 1 | 2 | 3 | 8 |
+| Which tasks to fulfill | 1 | 2 | 3 | 8 |
+| When to slow the pace of work | 1 | 2 | 3 | 8 |
+| When to take a summer leave | 1 | 2 | 3 | 8 |
 
 
 
@@ -779,7 +777,7 @@ Have you been dismissed from a jobsince 2008?
 | yes | 1 |
 | no | 2 |
 
-- *[interviewer! the next question targets only those who answered “Yes” to one of the previous three questions. The rest go to question 45]*
+- *[interviewer! the next question targets only those who answered “Yes” to one of the previous three questions. The rest go to question XX]*
 
 
 How did you manage to survive in these circumstances? How did you provide for yourself and your family?
@@ -826,13 +824,13 @@ Some people think that trade-unions are not necessary in modern world, but thing
 | Trade-unions are important for the defending the interests of the employees | 1 |
 | Trade-unions are important if they work as partners with the employers | 2 |
 | Trade-unions should influence only to issues of work-conditions, but not wages| 3 |
-| Trade-unions are just tools in the hands of the management | 4 ||
+| Trade-unions are just tools in the hands of the management | 4 |
 | Trade-unions, though necessary, should not impede or slow the development of the enterprise | 5 |
 | Trade-unions are not necessary in the modern world | 6 |
 
 
 
-Whatis the role of trade union in Your organization?
+What is the role of trade union in Your organization?
 ---------------------------------------------------------------------------------------------------------
 
 |||
@@ -840,8 +838,8 @@ Whatis the role of trade union in Your organization?
 | It is more a tool inthe hands of management| 1 |
 | It is more a defender of the rights of workers.| 2 |
 | It is inactive| 3 |
-| t reports tohigher trade union organization, not to workers or managers. | 4 |
-| Don't know | 5 |
+| It reports tohigher trade union organization, not to workers or managers. | 4 |
+| Hard to say | 8 |
 
 
 
@@ -932,7 +930,7 @@ Which of the relatives permanently live with you under one roof?
 | ------------- |------------- |
 | Spouse | 1 |
 | Children | 2 |
-| oster child/ children | 3 |
+| Foster child/ children | 3 |
 | Your parents | 4 |
 | Spouse's parents | 5 |
 | Spouse's children | 6 |
@@ -985,22 +983,22 @@ How important for your family are the following sources of income, means of subs
 ----------------------------------------------------------------------------------------------------------
 
 
-| item | Very important | Important | A little bit important | Not important | No such source | hard to say |
+| item | Very important | Important | A little bit important | Not important | No such source | Hard to say |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|Main job salary | 3 | 2 | 1 | 0 | 8 | 9 |
-|Second job salary | 3 | 2 | 1 | 0 | 8 | 9 |
-|Household plot farming? | 3 | 2 | 1 | 0 | 8 | 9 |
-|Nature products (mushrooms, berries, fish, honey,etc) | 3 | 2 | 1 | 0 | 8 | 9 |
-|Relatives’ assistance | 3 | 2 | 1 | 0 | 8 | 9 |
-|Small scale trade | 3 | 2 | 1 | 0 | 8 | 9 |
-|Pensions, other social subsidy | 3 | 2 | 1 | 0 | 8 | 9 |
-|Letting an apartment or a summer cottage | 3 | 2 | 1 | 0 | 8 | 9 |
-|Interest accumulated by a bank account | 3 | 2 | 1 | 0 | 8 | 9 |
-|Savings | 3 | 2 | 1 | 0 | 8 | 9 |
-|Investment in equities | 3 | 2 | 1 | 0 | 8 | 9 |
-|Philanthropy | 3 | 2 | 1 | 0 | 8 | 9 |
-|Occasional moonlightning | 3 | 2 | 1 | 0 | 8 | 9 |
-|Other | 3 | 2 | 1 | 0 | 8 | 9 |
+|Main job salary | 4 | 3 | 2 | 1 | 0 | 8 | 
+|Second job salary | 4 | 3 | 2 | 1 | 0 | 8 |
+|Household plot farming? | 4 | 3 | 2 | 1 | 0 | 8 |
+|Nature products (mushrooms, berries, fish, honey,etc) | 4 | 3 | 2 | 1 | 0 | 8 |
+|Relatives’ assistance | 4 | 3 | 2 | 1 | 0 | 8 |
+|Small scale trade | 4 | 3 | 2 | 1 | 0 | 8 |
+|Pensions, other social subsidy | 4 | 3 | 2 | 1 | 0 | 8 |
+|Letting an apartment or a summer cottage | 4 | 3 | 2 | 1 | 0 | 8 |
+|Interest accumulated by a bank account | 4 | 3 | 2 | 1 | 0 | 8 |
+|Savings | 4 | 3 | 2 | 1 | 0 | 8 |
+|Investment in equities | 4 | 3 | 2 | 1 | 0 | 8 |
+|Philanthropy | 4 | 3 | 2 | 1 | 0 | 8 |
+|Occasional moonlightning | 4 | 3 | 2 | 1 | 0 | 8 |
+|Other | 4 | 3 | 2 | 1 | 0 | 8 |
 
 
 
@@ -1013,7 +1011,7 @@ How is your work paid in your main job?
 | Collective piece rate | 2 |
 | Time wage | 3 |
 | Fixed salary | 4 |
-| Paydepends on sales or profits/commission | 5 |
+| Pay depends on sales or profits/commission | 5 |
 | Other | 6 |
 
 
@@ -1034,7 +1032,7 @@ On what does the bonus depend on?
 | The profitability of the enterprise | 3 |
 | Attitude of the management | 4 |
 | It is a fixed part of the payment | 5 |
-| Don't know | 6 |
+| Hard to say | 8 |
 
 
 
@@ -1062,7 +1060,7 @@ What kind of state benefits or allowances do you get?
 | Communal payment rebate | 1 | 2 |
 | Allowance for the handicapped| 1 | 2 |
 | Pensions | 1 | 2 |
-| onthly cash payments (monetized l'goty) | 1 | 2 |
+| Monthly cash payments (monetized l'goty) | 1 | 2 |
 | Other | 1 | 2 |
 
 
@@ -1082,7 +1080,7 @@ What kind of maternity or child benefits do you get?
 | Child care benefit | 3 |
 | Birth certificate | 4 |
 | Maternity capital | 5 |
-| Don't know | 6 |
+| Hard to say | 8 |
 
 
 
@@ -1096,7 +1094,7 @@ Which of the following social benefits did you get at your workplace ten years a
 | Kindergarten | 1 | 2 | 8 | 9 |
 | Privileged access to rest homes or sanatoria | 1 | 2 | 8 | 9 |
 | Lunch at a special price | 1 | 2 | 8 | 9 |
-| Issue of work clothes | 1 | 2 | 8 | 9 |
+| Work clothes | 1 | 2 | 8 | 9 |
 | Coverage of travel to workplace and back | 1 | 2 | 8 | 9 |
 | Privileged access to food products | 1 | 2 | 8 | 9 |
 | Privileged access to consumer goods | 1 | 2 | 8 | 9 |
@@ -1116,7 +1114,7 @@ Which of the following social benefits do you get at your workplace now?
 | Kindergarten | 1 | 2 | 8 | 9 |
 | Privileged access to rest homes or sanatoria | 1 | 2 | 8 | 9 |
 | Lunch at a special price | 1 | 2 | 8 | 9 |
-| Issue of work clothes | 1 | 2 | 8 | 9 |
+| Work clothes | 1 | 2 | 8 | 9 |
 | Coverage of travel to workplace and back | 1 | 2 | 8 | 9 |
 | Privileged access to food products | 1 | 2 | 8 | 9 |
 | Privileged access to consumer goods | 1 | 2 | 8 | 9 |
@@ -1135,8 +1133,8 @@ I shall read the characteristics of several groups. Tell me to which ofthem you 
 | We cannot make ends meet. There is not enough money even for food | 1 |
 | We have money only for food, the purchase of clothes is a problem | 2 |
 | We are able to buy food. We can also buy clothes, if we stick to cheap kind. However, we have a problem when there is a need to buy durables such as a TV set or a refrigerator | 3 |
-| We have enough money for food. We can also buyexpensive clothes. If we save money, we can buy durables, but things that are really expensive such as a summer cottage or a new car are beyond our means | 4 |
-| We can buy durables without any problems. If we save, we can buy an Inexpensive car or a modest summer home. However we do not have a chance to go for really expensive things such as an apartment or a modern house. | 5 |
+| We have enough money for food. We can also buy expensive clothes. If we save money, we can buy durables, but things that are really expensive such as a summer cottage or a new car are beyond our means | 4 |
+| We can buy durables without any problems. If we save, we can buy an inexpensive car or a modest summer home. However we do not have a chance to go for really expensive things such as an apartment or a modern house. | 5 |
 | We have no material problems, we can buy whatever we want including real estate, an expensive car or an expensive tourist trip | 6 |
 
 
@@ -1160,15 +1158,15 @@ How did you family’s following expenses change since the year 2010?
 
 | item | Decreased | No change | Increased | No such expense | Hard to say |
 | ------------- | ------------- |------------- | ------------- | ------------- | ------------- |
-| Purchase ofmedical services, drugs | 1 | 2 | 3 | 9 | 8 |
-| Food | 1 | 2 | 3 | 9 | 8 |
-| Hobbies | 1 | 2 | 3 | 9 | 8 |
-| Travel | 1 | 2 | 3 | 9 | 8 |
-| Big buys such as real estate or a car | 1 | 2 | 3 | 9 | 8 |
-| Small buys such as clothes | 1 | 2 | 3 | 9 | 8 |
-| Children’s education | 1 | 2 | 3 | 9 | 8 |
-| Communal payments | 1 | 2 | 3 | 9 | 8 |
-| Tax payment | 1 | 2 | 3 | 9 | 8 |
+| Purchase of medical services, drugs | 1 | 2 | 3 | 0 | 8 |
+| Food | 1 | 2 | 3 | 0 | 8 |
+| Hobbies | 1 | 2 | 3 | 0 | 8 |
+| Travel | 1 | 2 | 3 | 0 | 8 |
+| Big buys such as real estate or a car | 1 | 2 | 3 | 0 | 8 |
+| Small buys such as clothes | 1 | 2 | 3 | 0 | 8 |
+| Children’s education | 1 | 2 | 3 | 0 | 8 |
+| Communal payments | 1 | 2 | 3 | 0 | 8 |
+| Tax payment | 1 | 2 | 3 | 0 | 8 |
 
 
 
@@ -1182,18 +1180,17 @@ What are your expectations? How would your well-being change in the next three y
 | Did not change | 3 |
 | Worsened | 2 |
 | Significantly worsened | 1 |
-| Not applicable | 9 |
 | Hard to say | 8 |
-
+| Not applicable | 9 |
 
 Do you own or are you renting your current apartment?
 -------------------------------------------------------------------------------------------------------
 
 |||
 | ------------- |------------- |
-| own | 1|
-| rent | 2|
-| other, what? | ______ |
+| own | 1|
+| rent | 2|
+| other, what? | ______ |
 
 
 What are home conditions at the place where you are living permanently? Choose one option of the listed below.
@@ -1239,7 +1236,7 @@ Does Your family have access to the medical services when needed?
 | no | 2 |
 
 
-If not, why doesYour family not get needed treatments? 
+If not, why does Your family not get needed treatments? 
 --------------------------------------------------------------------------------------
 
 | item | Completely agree | Agree | Not agree nor disagree | Disagree | Completely disagree | not applicaple |
@@ -1254,7 +1251,7 @@ If not, why doesYour family not get needed treatments?
 
 
 
-How doesyour family cope with lack of needed medical care?
+How does your family cope with lack of needed medical care?
 --------------------------------------------------------------------------------------
 
 | item | Yes | No |
@@ -1327,7 +1324,7 @@ Which of these newspapers you have read during last week?
 
 
 Which of these magazine have you read during last month?
-__________________________________________________________________
+--------------------------------------------------------------------------------------------------------
 
 | item | Yes | No |
 | ------------- | ------------- |  ------------- |
@@ -1410,7 +1407,7 @@ Which of the following events did you take part in 2010-2014?
 | Participated in Victory Day - festivities | 1 | 2 |
 | Took part in rallies | 1 | 2 |
 | Wrote a letter to a newspaper | 1 | 2 |
-| ook part in an electoral campaign in the team of a candidate | 1 | 2 |
+| Took part in an electoral campaign in the team of a candidate | 1 | 2 |
 | Voted in local elections | 1 | 2 |
 
 
@@ -1453,12 +1450,6 @@ Which candidate You voted in the last Presidential election?
 In which of the following organizations you participate, or only formally belong without participation, or do not belong at all?
 ----------------------------------------------------------------------------------------------------------
 
-
-
-To what extent do you trust the following authorities, public organizations or groups? 
-----------------------------------------------------------------------------------------------------------
-
-
 | item | Participate | Formally belong, but do not participate | Do not belong, and do not participate |
 | ------------- | ------------- |  ------------- | ------------- |
 | Charity | 3 | 2 | 1 |
@@ -1477,6 +1468,32 @@ To what extent do you trust the following authorities, public organizations or g
 | Formal or informal councils of residents or yard councils | 3 | 2 | 1 |
 | Hobby clubs (fishing, hunting) | 3 | 2 | 1 |
 | other clubs of organizations (specify ___________)  | 3 | 2 | 1 |
+
+
+To what extent do you trust the following authorities, public organizations or groups? 
+----------------------------------------------------------------------------------------------------------
+
+| item  | Fully trust | Mainly trust  | Partially trust | Mainly distrust | Completely distrust | Hard to say |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Council of the Federation | 5 | 4 | 3 | 2 | 1 | 8 |
+| State Duma  | 5 | 4 | 3 | 2 | 1 | 8 |
+| President of Russia | 5 | 4 | 3 | 2 | 1 | 8 |
+| Government of Russia  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Regional administration | 5 | 4 | 3 | 2 | 1 | 8 |
+| Municipal, village administration | 5 | 4 | 3 | 2 | 1 | 8 |
+| Russian orthodox church | 5 | 4 | 3 | 2 | 1 | 8 |
+| Army  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Courts  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Polyclinics/ hospitals  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Police  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Trade unions  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Non-governmenalt organizations  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Television  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Newspapers  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Banks | 5 | 4 | 3 | 2 | 1 | 8 |
+| Entrepreneurs | 5 | 4 | 3 | 2 | 1 | 8 |
+| Your sources of information in internet | 5 | 4 | 3 | 2 | 1 | 8 |
+
 
 
 
@@ -1500,15 +1517,15 @@ Generally speaking, would you say that people can be trusted or distrusted?
 In general, how satisfied you are in
 ----------------------------------------------------------------------------------------------------------
 
-| item | Completely satisfied | satisfied | Not satisfied nor unsatisfied | unsatisfied | Completely unsatisfied | not applicaple |
+| item | Completely satisfied | satisfied | Not satisfied nor unsatisfied | unsatisfied | Completely unsatisfied | Hard to say |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| The health care? | 5 | 4 | 3 | 2 | 1 | 9 |
-| Educational system ? | 5 | 4 | 3 | 2 | 1 | 9 |
-| Social services or social support? | 5 | 4 | 3 | 2 | 1 | 9 |
-| The way in which the government takes care of its duties? | 5 | 4 | 3 | 2 | 1 | 9 |
-| The way in which the Duma takes care of its duties? | 5 | 4 | 3 | 2 | 1 | 9 |
-| The way in which the President takes care of its duties? | 5 | 4 | 3 | 2 | 1 | 9 |
-| How politicians work in Russia? | 5 | 4 | 3 | 2 | 1 | 9 |
+| The health care? | 5 | 4 | 3 | 2 | 1 | 8 |
+| Educational system ? | 5 | 4 | 3 | 2 | 1 | 8 |
+| Social services or social support? | 5 | 4 | 3 | 2 | 1 | 8 |
+| The way in which the government takes care of its duties? | 5 | 4 | 3 | 2 | 1 | 8 |
+| The way in which the Duma takes care of its duties? | 5 | 4 | 3 | 2 | 1 | 8 |
+| The way in which the President takes care of its duties? | 5 | 4 | 3 | 2 | 1 | 8 |
+| How politicians work in Russia? | 5 | 4 | 3 | 2 | 1 | 8 |
 
 
 
@@ -1517,28 +1534,28 @@ In general, how satisfied you are in
 Do you agree or disagree with following statements?
 ----------------------------------------------------------------------------------------------------------
 
-| item | Completely agree | Agree | Not agree nor disagree | Disagree | Completely disagree | not applicaple |
+| item | Completely agree | Agree | Not agree nor disagree | Disagree | Completely disagree | Hard to say |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Income differences are too large in this country | 5 | 4 | 3 | 2 | 1 | 9 |
-| The government should provide decent standard of living for unemployed | 5 | 4 | 3 | 2 | 1 | 9 |
-| The government should spend less on benefits for the poor | 5 | 4 | 3 | 2 | 1 | 9 |
-| People should take more care of themselves  | 5 | 4 | 3 | 2 | 1 | 9 |
-| People like me cannot influence what the government does | 5 | 4 | 3 | 2 | 1 | 9 |
-| Business should have more influence on how things are developing in society | 5 | 4 | 3 | 2 | 1 | 9 |
-| Interesting job is more important than money | 5 | 4 | 3 | 2 | 1 | 9 |
-| Country can only develope if it has good institutions like just courts and honest police | 5 | 4 | 3 | 2 | 1 | 9 |
-| A few strong leaders can do more for the country than all laws and demonstrations | 5 | 4 | 3 | 2 | 1 | 9 |
+| Income differences are too large in this country | 5 | 4 | 3 | 2 | 1 | 8 |
+| The government should provide decent standard of living for unemployed | 5 | 4 | 3 | 2 | 1 | 8 |
+| The government should spend less on benefits for the poor | 5 | 4 | 3 | 2 | 1 | 8 |
+| People should take more care of themselves  | 5 | 4 | 3 | 2 | 1 | 8 |
+| People like me cannot influence what the government does | 5 | 4 | 3 | 2 | 1 | 8 |
+| Business should have more influence on how things are developing in society | 5 | 4 | 3 | 2 | 1 | 8 |
+| Interesting job is more important than money | 5 | 4 | 3 | 2 | 1 | 8 |
+| Country can only develope if it has good institutions like just courts and honest police | 5 | 4 | 3 | 2 | 1 | 8 |
+| A few strong leaders can do more for the country than all laws and demonstrations | 5 | 4 | 3 | 2 | 1 | 8 |
 
 
 In your opinion, what is the main reason why there are some people in need in our country today?
 ----------------------------------------------------------------------------------------------------------
 
-| item | Completely agree | Agree | Not agree nor disagree | Disagree | Completely disagree | not applicaple |
+| item | Completely agree | Agree | Not agree nor disagree | Disagree | Completely disagree | Hard to say |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Because they have been unlucky  | 5 | 4 | 3 | 2 | 1 | 9 |
-| Because of laziness and lack of willpower  | 5 | 4 | 3 | 2 | 1 | 9 |
-| Because of injustice in our society  | 5 | 4 | 3 | 2 | 1 | 9 |
-| It is an inevitable part of modern life  | 5 | 4 | 3 | 2 | 1 | 9 |
+| Because they have been unlucky  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Because of laziness and lack of willpower  | 5 | 4 | 3 | 2 | 1 | 8 |
+| Because of injustice in our society  | 5 | 4 | 3 | 2 | 1 | 8 |
+| It is an inevitable part of modern life  | 5 | 4 | 3 | 2 | 1 | 8 |
 
 
 
@@ -1549,8 +1566,9 @@ Do you believe that your salary/earnings are just?
 | ------------- |  ------------- | ----- |
 | Yes, they pay me a just salary | 1 | [TO QUESTION XX]  |
 | No, they pay me an unjust salary | 2  | [TO QUESTION XX]  |
-| Not relevant | 8  |[TO QUESTION XX]  |
-| Hard to say | 9  |[TO QUESTION XX] |
+| Hard to say | 8  |[TO QUESTION XX] |
+| Not applicable | 9  |[TO QUESTION XX]  |
+
 
 
 
@@ -1615,7 +1633,7 @@ In your opinion why is your salary so low ? Choose no more than two options from
 | I myself | 1 | 2 |
 | Migrants who agreed to pay for low wages | 1 | 2 |
 | Other, what? _________ | 1 | 2 |
-| hard to say | 1 | 2 |
+| Hard to say | 1 | 2 |
 
 
 
@@ -1623,7 +1641,7 @@ In your opinion why is your salary so low ? Choose no more than two options from
 Let talk for a momentabout the country as a whole. How often do you think the following conditions must influence the salary level in our country?
 ----------------------------------------------------
 
-| item | Must always influence | As a rule must influence | Sometimes must, sometimes must not | As a rule must not influence | Must never influence | hard to say |
+| item | Must always influence | As a rule must influence | Sometimes must, sometimes must not | As a rule must not influence | Must never influence | Hard to say |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Level of education | 5 | 4 | 3 | 2 | 1 | 8 |
 | Labor conditions | 5 | 4 | 3 | 2 | 1 | 8 |
@@ -1644,7 +1662,7 @@ Let talk for a momentabout the country as a whole. How often do you think the fo
 And on what does the salary level depends on at present? Evaluate the influence of each condition using the same scale. 
 ----------------------------------------------------
 
-| item | Must always influence | As a rule must influence | Sometimes must, sometimes must not | As a rule must not influence | Must never influence | hard to say |
+| item | Must always influence | As a rule must influence | Sometimes must, sometimes must not | As a rule must not influence | Must never influence | Hard to say |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Level of education | 5 | 4 | 3 | 2 | 1 | 8 |
 | Labor conditions | 5 | 4 | 3 | 2 | 1 | 8 |
@@ -1823,8 +1841,8 @@ If your native language is not Russian, what is your command in Russian?
 | Speak fluently but do not write well | 4 |
 | Not important nor unimportant | 3 |
 | Speak a little bit | 2 |
-| Is able only to read | 1 |
-| No command at all | 0 |
+| I am able only to read | 1 |
+| I have no command at all | 0 |
 | Hard to say | 8 |
 
 
@@ -1838,8 +1856,8 @@ What is your command in English?
 | Speak fluently but do not write well | 4 |
 | Not important nor unimportant | 3 |
 | Speak a little bit | 2 |
-| Is able only to read | 1 |
-| No command at all | 0 |
+| I am able only to read | 1 |
+| I have no command at all | 0 |
 | Hard to say | 8 |
 
 
@@ -1852,7 +1870,7 @@ How acute conflicts do you see between these dimensions?
 | Generation (Old - young) | 5 | 4 | 3 | 2 | 1 | 8 |
 | Social class (Workers - Oligarks) | 5 | 4 | 3 | 2 | 1 | 8 |
 | Family (благополучная OR неблагополучная семья) | 5 | 4 | 3 | 2 | 1 | 8 |
-|  1.Gender (Men-Women) | 5 | 4 | 3 | 2 | 1 | 8 |
+| Gender (Men-Women) | 5 | 4 | 3 | 2 | 1 | 8 |
 | Ethnicity (Russians - non-Russians) | 5 | 4 | 3 | 2 | 1 | 8 |
 | Religion (Christians - others) | 5 | 4 | 3 | 2 | 1 | 8 |
 | Place of residence (Cities - countryside) | 5 | 4 | 3 | 2 | 1 | 8 |
@@ -1934,7 +1952,7 @@ Respondent’s sex
 |  |  |
 | ------------- |  ------------- |
 | Male |  1  |
-| Female |  2  |
+| Female |  2  |
 
 Type of settlement where interview was held
 ----------------------------------------------------------------------------------------------------------
@@ -1970,4 +1988,5 @@ Our interview is finished. Thank you for your cooperation
 I thereby verify the authenticity of interview and abidance by the rules of selection.I do not have any objections against verification of my work by a team of independent controllers
 
 __________________________________ Interviewer’s signature.
+
 
