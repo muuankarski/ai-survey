@@ -1347,7 +1347,8 @@ Which of these magazine have you read during last month?
 | Tolstie literature and cultural magazines | 1 | 2 |
 | Scientific magazines | 1 | 2 |
 | other magazines | 1 | 2 |
-| I do not readmagazines | 1 | 2 |
+| I do not read magazines | 1 | 2 |
+
 
 
 
@@ -1387,8 +1388,7 @@ Which TV channels have you watched during last month (also via internet)?
 | Dozhd | 1 | 2 |
 | A-One | 1 | 2 |
 | Other, which________________________________? | 1 | 2 |
-
-
+| I do not watch television | 1 | 2 |
 
 
 
